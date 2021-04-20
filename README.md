@@ -48,3 +48,7 @@
 ## 6. 2. （中国）北京のデータ
 
 [https://www.kaggle.com/joshuapaulbarnard/beijing-air-quality-pm25-from-2010-to-2017](https://www.kaggle.com/joshuapaulbarnard/beijing-air-quality-pm25-from-2010-to-2017)
+
+# 7. Colab Link
+
+https://colab.research.google.com/drive/1v6mI2IvKZLJ6sE1CAaEbx_toZS2DtMSi?usp=sharing
